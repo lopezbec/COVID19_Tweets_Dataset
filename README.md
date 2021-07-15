@@ -1,5 +1,6 @@
-## The team is currently working on splitting the dataset between two repo (2020 & 2021) given the large size of the current dataset
-https://github.com/lopezbec/COVID19_Tweets_Dataset_2020
+This repo only contatins the data and statistics for 2021. 
+For the data of 2020 please visit: https://github.com/lopezbec/COVID19_Tweets_Dataset_2020
+-----------------
 
 -   [Data Organization](#data-organization)
 -   [Data Statistics](#data-statistics)
