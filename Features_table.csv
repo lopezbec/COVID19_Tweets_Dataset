@@ -1,0 +1,25 @@
+Table,Feature Name,Description
+Primary key,Tweet_ID,Integer representation of the tweets unique identifier
+1.Summary_Details,Language,"When present, indicates a BCP47 language identifier corresponding to the machine-detected language of the Tweet text "
+,Geolocation_cordinate,Indicates whether or not the geographic location of the tweet was reported
+,RT,Indicates if the tweet is a retweet (YES) or original tweet (NO)
+,Likes,Number of likes for the tweet
+,Retweets,Number of times the tweet was retweeted
+,Country,"When present, indicates a list of uppercase two-letter country codes from which the tweet comes"
+,Date_Created,UTC date and time the tweet was created
+2.Summary_Hastag,Hashtag,Hashtag (#) present in the tweet
+3.Summary_Mentions,Mentions,Mention (@) present in the tweet
+4.Summary_Sentiment,Sentiment_Label,"Most probable tweet sentiment (neutral, positive, negative) "
+,Logits_Neutral,Non-normalized prediction for neutral sentiment 
+,Logits_Positive,Non-normalized prediction for positive sentiment
+,Logits_Negative,Non-normalized prediction for negative sentiment
+5.Summary_NER,NER_text,Text stating a named entity recognized by the NER algorithm
+,Start_Pos,Initial character position within the tweet of the NER_text
+,End_Pos,End character position within the tweet of the NER_text
+,NER_Label Prob,Label and probability of the named entity recognized by the NER algorithm
+6.Summary_Sentiment_ES,Sentiment_Label,"Most probable tweet sentiment (neutral, positive, negative) "
+,Probability_pos,"Probability of the tweets sentiment being positive (<=0.33 is negative, >0.33 OR <0.66 is neutral, else positve)"
+6.Summary_NER_ES,NER_text,Text stating a named entity recognized by the NER algorithm
+,Start_Pos,Initial character position within the tweet of the NER_text
+,End_Pos,End character position within the tweet of the NER_text
+,NER_Label Prob,Label and probability of the named entity recognized by the NER algorithm
