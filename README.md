@@ -1022,12 +1022,12 @@ Max No. Likes
 </tbody>
 </table>
 
-![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/master/Summary_Details/Tweets%20per%20Day.png)
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20per%20Day.png)
 
 There is a total of 4,076,878 tweets with geolocation information, which
 are shown on a map below:
 
-![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/master/Summary_Details/GeoTweets.png)
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/GeoTweets.png)
 
 Language Statistics
 -------------------
@@ -1119,7 +1119,7 @@ Others
 </tbody>
 </table>
 
-![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/master/Summary_Details/Tweets%20by%20Language%20Line%20plot.png)
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Details/Tweets%20by%20Language%20Line%20plot.png)
 
 English Sentiment Analaysis
 ---------------------------
@@ -1129,9 +1129,9 @@ state-or-the-art Twitter Sentiment algorithm
 [BB\_twtr](https://arxiv.org/abs/1704.06125). [(See code
 here)](https://github.com/leelaylay/TweetSemEval) .
 
-![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/master/Summary_Sentiment/Tweets%20Sentiment.png)
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Sentiment/Tweets%20Sentiment.png)
 
-![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/master/Summary_Sentiment/Tweets%20Sentiment%20Percentage.png)
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Sentiment/Tweets%20Sentiment%20Percentage.png)
 
 English Named Entity Recognition, Mentions, and Hashtags
 --------------------------------------------------------
@@ -1379,9 +1379,9 @@ analysis in spanish based on neural networks model of the the python
 library [sentiment-analysis-spanish
 0.0.25](https://pypi.org/project/sentiment-analysis-spanish/).
 
-![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/master/Summary_Sentiment_ES/Tweets%20Sentiment%20ES.png)
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Sentiment_ES/Tweets%20Sentiment%20ES.png)
 
-![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/master/Summary_Sentiment_ES/Tweets%20Sentiment%20Percentage%20ES.png)
+![](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Summary_Sentiment_ES/Tweets%20Sentiment%20Percentage%20ES.png)
 
 Spanish Named Entity Recognition
 --------------------------------
@@ -1629,7 +1629,7 @@ Using our TWARC Notebook
 ------------------------
 
 The notebook
-[Automatically\_Hydrate\_TweetsIDs\_COVID190\_v2.ipynb](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/master/Automatically_Hydrate_TweetsIDs_COVID19_v2.ipynb)
+[Automatically\_Hydrate\_TweetsIDs\_COVID190\_v2.ipynb](https://github.com/lopezbec/COVID19_Tweets_Dataset/blob/main/Automatically_Hydrate_TweetsIDs_COVID19_v2.ipynb)
 will allow you to automatically hydrate the tweets-ID from our
 [COVID19\_Tweets\_dataset GitHub
 repository](https://github.com/lopezbec/COVID19_Tweets_Dataset).
