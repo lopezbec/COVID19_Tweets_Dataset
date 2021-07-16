@@ -21,7 +21,8 @@
 This repo only contatins the data and statistics for 2021. For the data
 of 2020 please visit:
 <a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2020" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</a>
-—————–
+
+------------------------------------------------------------------------
 
 The repository contains an ongoing collection of tweets associated with
 the novel coronavirus COVID-19 since January 22nd, 2020.
