@@ -1,3 +1,6 @@
+-   [$\\color{red}{\\text{This repo only contatins the data and statistics for 2021. 
+    For the data of 2020 please visit:}}$
+    <a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2020" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</a>](#colorredtextthis-repo-only-contatins-the-data-and-statistics-for-2021.-for-the-data-of-2020-please-visit-httpsgithub.comlopezbeccovid19_tweets_dataset_2020)
 -   [Data Organization](#data-organization)
 -   [Data Statistics](#data-statistics)
     -   [General Statistics](#general-statistics)
@@ -18,9 +21,9 @@
 -   [Licensing](#licensing)
 -   [References](#references)
 
-This repo only contatins the data and statistics for 2021. For the data
-of 2020 please visit:
-<a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2020" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</a>
+$\\color{red}{\\text{This repo only contatins the data and statistics for 2021. 
+For the data of 2020 please visit:}}$ <a href="https://github.com/lopezbec/COVID19_Tweets_Dataset_2020" class="uri">https://github.com/lopezbec/COVID19_Tweets_Dataset_2020</a>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
