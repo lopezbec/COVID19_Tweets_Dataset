@@ -144,8 +144,8 @@ Number of times the tweet was retweeted
 Country
 </td>
 <td style="text-align:left;">
-When present, indicates a list of uppercase two-letter country
-codes from which the tweet comes
+When present, indicates a list of uppercaseÂ two-letter country
+codesÂ from which the tweet comes
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ Probability of the tweets sentiment being positive (\<=0.33 is negative,
 </tr>
 <tr>
 <td style="text-align:left;">
-6.Summary\_NER\_ES
+7.Summary\_NER\_ES
 </td>
 <td style="text-align:left;">
 NER\_text
